@@ -1,0 +1,12 @@
+Pull from git hub;
+	git pull "remote"
+
+Push to git hub:
+	git -u "remote" "branch"
+
+Add to repository:
+	git add "file_name" or git add . (all)
+
+Commit
+	git commit -m "coment here"
+
